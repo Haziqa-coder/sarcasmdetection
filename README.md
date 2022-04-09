@@ -1,4 +1,4 @@
-# sarcasm detection
+# Sarcasm Detection
 Scikit-learn (machine larning tool for python) for using implementations of classification algorithms. 
 
 2 types of classification
