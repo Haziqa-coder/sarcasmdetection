@@ -1,4 +1,4 @@
-# sarcasmdetection
+# sarcasm detection
 Scikit-learn (machine larning tool for python) for using implementations of classification algorithms. 
 
 2 types of classification
@@ -22,13 +22,6 @@ Implemention of feature extraction methods.
 2. Bag of words based on TfIDF
 3. ngrams (bigrams, trigrams)
 
-Read following links about using Vectorizer (Bag of words based on raw counts) and 
-transformer (Bag of words based on TfIDF) for converting list of sentences to vectors
-1. https://scikit-learn.org/stable/modules/feature_extraction.html
-2. https://scikitlearn.org/stable/auto_examples/text/plot_document_classification_20newsgroups.ht
-ml#sphx-glr-auto-examples-text-plot-document-classification-20newsgroups-py
-
-You can use scikit learn for implementation of different classifiers as explained in above links.
 Classifiers used: 
 1. Naïve Bayes
 2. Logistic Regression
